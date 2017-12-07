@@ -1,0 +1,18 @@
+1) New Game 
+2) Choose Difficulty
+  a) Potato - Jacob
+  b) Edge - J
+  c) Easy Mode - Conner
+3) if dif=a {
+  Game will be ridiculously hard and unfair.
+  Life stats start out great, but decrease over time, despite whatever happens
+  Essentially, choosing this option is suicide- just delayed to the inevitable. 
+}
+if dif=b {
+  Start out with average stats
+  Life stats can be increased, but requires effort and difficulty is often random
+  The theme for this idea is that the user will be so worried about wealth and intelligence stats in order to survive, they will almost completely fail out on social stats
+}
+if dif=c {
+  Literally nothing can go wrong.
+}
