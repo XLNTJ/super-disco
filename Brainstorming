@@ -1,28 +1,39 @@
 1) New Game 
-2) Choose Difficulty
+2:1) Create Character
+2:2) Load a saved game
+2:3) Choose Pre-set Character (This will be an extra feature for fun and debugging purposes)
   a) Potato - Jacob
   b) Edge - J
   c) Easy Mode - Conner
-3) if dif=a {
-  Game will be ridiculously hard and unfair.
-  Life stats start out great, but decrease over time, despite whatever happens
-  Essentially, choosing this option is suicide- just delayed to the inevitable. 
-}
-if dif=b {
-  Start out with average stats
-  Life stats can be increased, but requires effort and difficulty is often random
-  The theme for this idea is that the user will be so worried about wealth and intelligence stats in order to survive, they will almost completely fail out on social stats
-}
-if dif=c {
-  Literally nothing can go wrong.
-  You are the master of everything in your life, you work hard and think carefully and manage to have fun.
-  Stats start out mediocre and reach over max in a few short years.
-}
-stats{
-  Life points (HP if you will, when 0 they die):100;
-  Fitness:;
-  Weight:;
-  Intelligence:;
-  Skills:;
-  Life Expectancy (hidden, when years = this, HP = 0):;
-}
+  if char=a {
+    Game will be ridiculously hard and unfair.
+    Life stats start out great, but decrease over time, despite whatever happens
+    Essentially, choosing this option is suicide- just delayed to the inevitable. 
+  }
+  if char=b {
+    Start out with average stats
+    Life stats can be increased, but requires effort and difficulty is often random
+    The theme for this idea is that the user will be so worried about wealth and intelligence stats in order to survive, they will almost completely fail out on social stats
+  }
+  if char=c {
+    Literally nothing can go wrong.
+    You are the master of everything in your life, you work hard and think carefully and manage to have fun.
+    Stats start out mediocre and reach over max in a few short years.
+  }
+  
+/*  
+*stats{
+*  Life points (HP if you will, when 0 they die):100;
+*  Fitness:;
+*  Weight:;
+*  Intelligence:;
+*  Skills:;
+*  Life Expectancy (hidden, when years = this, HP = 0):;
+}*/
+3) Creating a Character
+Be able to edit basic, aesthetic characteristics such as (these make only slight differences to gameplay, if any, and are used purely for drawing the player into the game):
+  Gender - Male/Female (lol there are only two genders)
+  Hair - color/length/style
+  Face - shape/skin-color/extra details(scars, freckles, stuff like that)
+  Eyes - color
+  Body - Height/Thickness (skinny, heavy-set, etc...)/muscularity/etc.
