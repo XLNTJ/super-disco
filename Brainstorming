@@ -1,4 +1,4 @@
-1) New Game 
+1) New Game (complexity shouldnt exceed text)
 2:1) Create Character
 2:2) Load a saved game
 2:3) Choose Pre-set Character (This will be an extra feature for fun and debugging purposes)
