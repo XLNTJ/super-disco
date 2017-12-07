@@ -20,20 +20,17 @@
     You are the master of everything in your life, you work hard and think carefully and manage to have fun.
     Stats start out mediocre and reach over max in a few short years.
   }
-  
-/*  
-*stats{
-*  Life points (HP if you will, when 0 they die):100;
-*  Fitness:;
-*  Weight:;
-*  Intelligence:;
-*  Skills:;
-*  Life Expectancy (hidden, when years = this, HP = 0):;
-}*/
 3) Creating a Character
-Be able to edit basic, aesthetic characteristics such as (these make only slight differences to gameplay, if any, and are used purely for drawing the player into the game):
-  Gender - Male/Female (lol there are only two genders)
-  Hair - color/length/style
-  Face - shape/skin-color/extra details(scars, freckles, stuff like that)
-  Eyes - color
-  Body - Height/Thickness (skinny, heavy-set, etc...)/muscularity/etc.
+  a)Be able to edit basic, aesthetic characteristics such as (these make only slight differences to gameplay, if any, and are used purely for drawing the player into the game):
+    Gender - Male/Female (lol there are only two genders)
+    Hair - color/length/style
+    Face - shape/skin-color/extra details(scars, freckles, stuff like that)
+    Eyes - color
+    Body - Height/Thickness (skinny, heavy-set, etc...)/muscularity/etc.
+  b)Edit starting stats (everything starts at 5 for balance, and the player is given 20 points to distribute)
+    Fitness - affects combat turn speed, and some events
+    Weight - affects 
+    Intelligence:;
+    Skills:;
+    Life Expectancy (hidden, when years = this, HP = 0):;
+  c)Choose a name
