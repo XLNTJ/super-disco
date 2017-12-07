@@ -18,4 +18,11 @@ if dif=c {
   You are the master of everything in your life, you work hard and think carefully and manage to have fun.
   Stats start out mediocre and reach over max in a few short years.
 }
-test edit
+stats{
+  Life points (HP if you will, when 0 they die):100;
+  Fitness:;
+  Weight:;
+  Intelligence:;
+  Skills:;
+  Life Expectancy (hidden, when years = this, HP = 0):;
+}
